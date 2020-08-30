@@ -1,0 +1,19 @@
+{
+  "name": "finderbot",
+  "version": "1.0.0",
+  "description": "Searches for nearby locations that fit your search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julien Bertazzo Lambert",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "eslint": "^7.7.0",
+    "jquery": "^3.5.1",
+    "jquery-migrate": "^3.3.1",
+    "jsdom": "^16.4.0",
+    "urllib": "^2.36.1"
+  }
+}
