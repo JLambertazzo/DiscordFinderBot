@@ -9,7 +9,7 @@ Once the bot has joined the server and is online, type `!find (search query)` to
 Note that the search results are biased to the University of Toronto. This should have no effect if you mention a location in your query  
 Your query can be multiple words, not just a one word parameter
   
-##Technologies Used
+## Technologies Used
 
 * Node.js - Run and host the bot
 * Discord.js - Use the discord API
